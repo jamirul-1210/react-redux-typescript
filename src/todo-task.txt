@@ -1,0 +1,4 @@
+TODO TASK:
+1 --> make counter slice
+2 --> make root layout
+3 -->set path alias
